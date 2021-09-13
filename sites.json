@@ -1,0 +1,47 @@
+{
+    "siteList": [
+        {
+            "url": "https://prnt.sc/++code++",
+            "codeLen": 6,
+            "minCodeLen": 5,
+            "codeType": "alphanumeric",
+            "lowerCase": true
+        },
+        {
+            "url": "https://postimg.cc/++code++",
+            "codeLen": 8,
+            "minCodeLen": 7,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
+        },
+        {
+            "url": "https://imgpile.com/i/++code++",
+            "codeLen": 6,
+            "minCodeLen": 6,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
+        },
+        {
+            "url": "https://ibb.co/++code++",
+            "codeLen": 7,
+            "minCodeLen": 2,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
+        },
+        {
+            "url": "https://cdn.upload.systems/uploads/++code++.++ext++",
+            "codeLen": 7,
+            "minCodeLen": 2,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": true,
+            "availableEXT":[
+                "gif",
+                "png"
+            ]
+        }
+    ]
+}

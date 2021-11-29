@@ -42,6 +42,62 @@
                 "gif",
                 "png"
             ]
+        },
+        {
+            "url": "https://postimages.org/++code++",
+            "codeLen": 7,
+            "minCodeLen": 2,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
+        },
+        {
+            "url": "https://pixhost.to/++code++",
+            "codeLen": 7,
+            "minCodeLen": 2,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
+        },
+        {
+            "url": "https://imgz.org/++code++",
+            "codeLen": 7,
+            "minCodeLen": 2,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
+        },
+        {
+            "url": "https://chevereto.com/++code++",
+            "codeLen": 7,
+            "minCodeLen": 2,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
+        },
+        {
+            "url": "https://catbox.moe/++code++",
+            "codeLen": 7,
+            "minCodeLen": 2,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
+        },
+        {
+            "url": "https://gyazo.com/++code++",
+            "codeLen": 7,
+            "minCodeLen": 2,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
+        },
+        {
+            "url": "https://artstation.com/artwork/++code++",
+            "codeLen": 7,
+            "minCodeLen": 2,
+            "codeType": "alphanumeric",
+            "lowerCase": false,
+            "addFIleEXT": false
         }
     ]
 }
